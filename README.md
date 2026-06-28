@@ -1,6 +1,4 @@
-## GitHub Familiarization Project
-
-# GitHub Familiarization Project: Learning Journal
+## GitHub Familiarization Project: Learning Journal
 
 ## Objective
 
